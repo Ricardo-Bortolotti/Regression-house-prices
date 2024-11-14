@@ -5,8 +5,6 @@ See the notebook of this project [here](Regression_house_prices_tehran.ipynb)
 
 In this project, I performed a supervised learning clustering task using several algorithms of regression, what allowed us to obtain a good model that predicts the Price of a house based in its features. I considered a dataset of house prices in Tehran that is available publically at Kaggle, but the techniques can be applied to predict prices in any other city.
 
-First, I did an Exploratory Data Analysis of the prices according to the following characteristics of the house: Area, number of Rooms, Address, and whether it has ou nor Parking, Elevator, Warehouse. This gave insights about what features influence the Price to be greater or smaller. I used several Machine Learning algorithms for Regression (Simple and Multiple Linear regression with OLS, Lasso Regression, Ridge Regression, Decision Tree, Random Forest, Gradient Boosting, LGBM, XGBoost and CatBoost) to predict the price of the houses. I adjusted the hyper-parameters using GrisearchSV and RandomSearchSV to improve the performances of the models. 
-
 ## 2. Tools
 
 The tools used were Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Jupyter Notebook, and Github (version control). We used Statistics for Exploratory Data Analysis (EDA) and Machine Learning algorithms.
@@ -23,6 +21,8 @@ For this, they have a dataset with information of almost 4000 houses in their ci
 + Develop models to predict the price.
 
 ## 4. Solution
+
+First, I did an Exploratory Data Analysis of the prices according to the following characteristics of the house: Area, number of Rooms, Address, and whether it has ou not Parking, Elevator, Warehouse. This gave insights about what features influence the Price to be greater or smaller. I used several Machine Learning algorithms for Regression (Simple and Multiple Linear regression with OLS, Lasso Regression, Ridge Regression, Decision Tree, Random Forest, Gradient Boosting, LGBM, XGBoost and CatBoost) to predict the price of the houses. I adjusted the hyper-parameters using GrisearchSV and RandomSearchSV to improve the performances of the models. 
 
 The steps for the solution were:
 
