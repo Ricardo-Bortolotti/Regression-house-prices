@@ -42,11 +42,11 @@ The Exploratory Data Analysis above shows that the Price tends to be greater whe
 
 We implemented several Machine Learning models, and the best performance was obtained for Random Forest after tuning the hyper-parameters. We summarize the performances in the following pictures:
 
-<img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/rmse.jpg" width=45% height=45%>    <img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/r2.jpg" width=45% height=45%> 
+<img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/rmse.jpg" width=70% height=70%>    <img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/r2.jpg" width=70% height=70%> 
 
 Visualization of Predicted x Real Prices for the best model:
 
-<img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/predicted_x_realprice.jpg" width=60% height=60%>
+<img src="https://github.com/Ricardo-Bortolotti/Regression-house-prices/blob/main/img/predicted_x_realprice.jpg" width=70% height=70%>
 
 ## 6. Source (dataset link)
 
